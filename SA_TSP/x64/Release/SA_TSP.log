@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\lecture\algorithm theory\resources\programs\SA_TSP\main.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\lecture\algorithm theory\resources\programs\SA_TSP\main.cpp(10,9): warning C4101: 'loop_counter': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 145 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SA_TSP.vcxproj -> D:\lecture\algorithm theory\resources\programs\SA_TSP\SA_TSP.exe
